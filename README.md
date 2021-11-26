@@ -1,1 +1,13 @@
 # Five-simple-tools-for-stochastic-lattice-creation
+
+This is the repository shares files of stochastic lattices that were proposed in the paper "Five simple tools for stochastic lattice creation" [1].
+
+The included STL files are:
+
+1. The regular face centred cubic (FCC) lattice as shown in Figure 5 [1].
+
+2. The isotropic FCC structure with a randomisation value of Sigma = 0.15 as shown in Figure 5 [1].
+
+## References
+
+[1] J.-H. Groth, C. Anderson, M. Magnini, C. Tuck, A. Clare, Five simple tools for stochastic lattice creation. *Addit. Manuf.*, 102488 (2021).
