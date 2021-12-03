@@ -1,6 +1,6 @@
 # Five-simple-tools-for-stochastic-lattice-creation
 
-This is the repository shares files of stochastic lattices that were proposed in the paper "Five simple tools for stochastic lattice creation" [1].
+This is repository shares stochastic lattice files. These are part of the publication "Five simple tools for stochastic lattice creation" [1].
 
 The included STL files are:
 
