@@ -16,4 +16,4 @@ Type **-** Unit Cell Size **-** No. of Unit Cells in X-Y-Z direction **-** Relat
 
 ## References
 
-[1] J.-H. Groth, C. Anderson, M. Magnini, C. Tuck, A. Clare, Five simple tools for stochastic lattice creation. *Addit. Manuf.*, 102488 (2021).
+[1] Groth, J. H., Anderson, C., Magnini, M., Tuck, C., & Clare, A. (2022). Five simple tools for stochastic lattice creation. Additive Manufacturing, 49, 102488.
